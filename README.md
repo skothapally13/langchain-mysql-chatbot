@@ -1,4 +1,6 @@
-# Gemini Chatbot using LangChain
+# Gemini Chatbot and Ollama Chatbot using LangChain
+
+## Gemini Chatbot
 
 ## 📝 Project Summary
 This project is a simple AI chatbot built using LangChain, Google Gemini API, and Streamlit. It allows users to ask questions and receive real-time AI-generated responses.
@@ -35,8 +37,9 @@ screenshots/even_odd2.png
 screenshots/even_odd3.png
 screenshots/sample2.png
 
+## Ollama Chatbot
 
-# Ollama Chatbot using LangChain
+## Ollama Chatbot using LangChain
 
 ## 📝 Project Summary
 This project is a simple AI chatbot built using LangChain, Ollama (local LLM), and Streamlit. It allows users to ask questions and get responses from a locally running AI model.
